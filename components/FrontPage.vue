@@ -6,6 +6,6 @@
 
 <script>
 export default {
-  name: 'NuxtTutorial'
+  name: 'FrontPage'
 }
 </script>

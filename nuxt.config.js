@@ -1,5 +1,10 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  //
+  //
+  target: 'server',
+
+
   head: {
     title: 'smorgasbord-content-api',
     htmlAttrs: {
@@ -31,6 +36,10 @@ export default {
   buildModules: [
   ],
 
+  serverMiddleware: [
+    { path: "/api", handler: "~/api/index.js" },
+  ],
+
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/content
@@ -43,5 +52,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+
+  
+
+
+
 }
