@@ -97,7 +97,11 @@ function generate_sequence_data(modulecontent, files, callback) {
 
       subfiles.forEach(subfile => {
 
-        let subfiledata = { file: subfile }
+        let subfiledata = { 
+          file: subfile,
+          rawfilepath: '/_content/modules/' + seqpath + '/' + subfile,
+          apipath: '/_content/modules/' + seqpath + '/' + subfile.replace('.md', ''),
+        }
         
         if(subfile.match(regordinal)) {
           subfiledata.ordinal = parseInt(subfile.match(regordinal)[1]);
@@ -187,10 +191,10 @@ export default async function (moduleOptions) {
   const { nuxt } = this
 
   nuxt.hook('ready', async nuxt => {
-    console.log('Nuxt is ready - PROCESS_CONTENT')
+    console.log('Nuxt is ready. Running process_content.js, converting nested module structure into data/modules.json')
 
     process_content(modulecontent, data => {
-        fs.writeFile('data/content.json', JSON.stringify(data, null, 2), 'utf-8', (err) => {
+        fs.writeFile('data/modules.json', JSON.stringify(data, null, 2), 'utf-8', (err) => {
           if (err) return console.log('An error happened', err)
         });
 

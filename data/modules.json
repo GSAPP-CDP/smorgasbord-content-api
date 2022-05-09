@@ -9,13 +9,7 @@
     "16-ambient-computing-network-architecture/162-network-architecture": {
       "double_links": []
     },
-    "18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/167-Markers-and-Tracking": {
-      "double_links": []
-    },
-    "18-behavioral-modeling-intro/182-Intro-To-Unity": {
+    "16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting": {
       "double_links": []
     },
     "16-ambient-computing-network-architecture/165-Webhooks-Connecting-IFTTT-and-Processing": {
@@ -24,13 +18,19 @@
     "16-ambient-computing-network-architecture/166-sounds-speech-and-macros": {
       "double_links": []
     },
+    "16-ambient-computing-network-architecture/167-Markers-and-Tracking": {
+      "double_links": []
+    },
+    "16-ambient-computing-network-architecture/index": {
+      "double_links": []
+    },
+    "16-ambient-computing-network-architecture/168-Computer-Vision": {
+      "double_links": []
+    },
+    "18-behavioral-modeling-intro/182-Intro-To-Unity": {
+      "double_links": []
+    },
     "18-behavioral-modeling-intro/184-Mapbox-SDK-and-Routing": {
-      "double_links": []
-    },
-    "18-behavioral-modeling-intro/183-Agent-Based-Populations-and-Behavior-Bricks": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting": {
       "double_links": []
     },
     "4-grasshopper-intro/41-getting-started-with-grasshopper": {
@@ -39,64 +39,58 @@
     "4-grasshopper-intro/410-Generating-Exploring-Spatial-Data": {
       "double_links": []
     },
-    "18-behavioral-modeling-intro/index": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/index": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/44-exercise-parametric-tower-part-1": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/45-working-with-data": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/46-exercise-parametric-tower-part-2": {
+    "4-grasshopper-intro/42-exercise-hello-grasshopper": {
       "double_links": []
     },
     "4-grasshopper-intro/43-working-in-grasshopper": {
       "double_links": []
     },
-    "4-grasshopper-intro/48-Deriving-Spatial-Data": {
+    "4-grasshopper-intro/45-working-with-data": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/44-exercise-parametric-tower-part-1": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/46-exercise-parametric-tower-part-2": {
       "double_links": []
     },
     "4-grasshopper-intro/47-documentation-best-practices": {
       "double_links": []
     },
+    "18-behavioral-modeling-intro/183-Agent-Based-Populations-and-Behavior-Bricks": {
+      "double_links": []
+    },
+    "18-behavioral-modeling-intro/index": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/48-Deriving-Spatial-Data": {
+      "double_links": []
+    },
+    "18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models": {
+      "double_links": []
+    },
     "4-grasshopper-intro/49-Procedural-Rules": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/42-exercise-hello-grasshopper": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/168-Computer-Vision": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-4-Street-Grid": {
       "double_links": []
     },
     "4-grasshopper-intro/index": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/5-7_Design-Space": {
+    "5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools": {
+      "double_links": []
+    },
+    "5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling": {
+      "double_links": []
+    },
+    "5-computational-design-modeling-in-grasshopper/5-4-Street-Grid": {
       "double_links": []
     },
     "5-computational-design-modeling-in-grasshopper/5-6_Troubleshooting": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/index": {
+    "5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density": {
+      "double_links": []
+    },
+    "5-computational-design-modeling-in-grasshopper/5-7_Design-Space": {
       "double_links": []
     },
     "7-fundamentals-of-python/71-variables-lists-and-dictionaries": {
@@ -105,16 +99,22 @@
     "7-fundamentals-of-python/72-conditionals-and-loops": {
       "double_links": []
     },
-    "7-fundamentals-of-python/index": {
+    "5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry": {
       "double_links": []
     },
     "7-fundamentals-of-python/73-functions-and-classes": {
       "double_links": []
     },
-    "7-fundamentals-of-python/74-python-libraries": {
+    "7-fundamentals-of-python/index": {
       "double_links": []
     },
     "index": {
+      "double_links": []
+    },
+    "5-computational-design-modeling-in-grasshopper/index": {
+      "double_links": []
+    },
+    "7-fundamentals-of-python/74-python-libraries": {
       "double_links": []
     }
   },
@@ -157,6 +157,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/index.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/index",
           "ordinal": 0,
           "contentdata": {
             "slug": "into-to-grasshopper",
@@ -192,6 +194,8 @@
         },
         {
           "file": "41-getting-started-with-grasshopper.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/41-getting-started-with-grasshopper.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/41-getting-started-with-grasshopper",
           "ordinal": 41,
           "contentdata": {
             "slug": "4-1-getting-started-with-grasshopper",
@@ -287,6 +291,8 @@
         },
         {
           "file": "42-exercise-hello-grasshopper.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/42-exercise-hello-grasshopper.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/42-exercise-hello-grasshopper",
           "ordinal": 42,
           "contentdata": {
             "slug": "4-2-exercise-hello-grasshopper",
@@ -332,6 +338,8 @@
         },
         {
           "file": "43-working-in-grasshopper.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/43-working-in-grasshopper.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/43-working-in-grasshopper",
           "ordinal": 43,
           "contentdata": {
             "slug": "4-3-working-in-grasshopper",
@@ -452,6 +460,8 @@
         },
         {
           "file": "44-exercise-parametric-tower-part-1.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/44-exercise-parametric-tower-part-1.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/44-exercise-parametric-tower-part-1",
           "ordinal": 44,
           "contentdata": {
             "slug": "4-4-exercise-parametric-tower-part-1",
@@ -502,6 +512,8 @@
         },
         {
           "file": "45-working-with-data.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/45-working-with-data.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/45-working-with-data",
           "ordinal": 45,
           "contentdata": {
             "slug": "4-5-working-with-data",
@@ -562,6 +574,8 @@
         },
         {
           "file": "46-exercise-parametric-tower-part-2.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/46-exercise-parametric-tower-part-2.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/46-exercise-parametric-tower-part-2",
           "ordinal": 46,
           "contentdata": {
             "slug": "4-6-exercise-parametric-tower-part-2",
@@ -617,6 +631,8 @@
         },
         {
           "file": "47-documentation-best-practices.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/47-documentation-best-practices.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/47-documentation-best-practices",
           "ordinal": 47,
           "contentdata": {
             "slug": "grasshopper-documentation-best-practices",
@@ -682,6 +698,8 @@
         },
         {
           "file": "48-Deriving-Spatial-Data.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/48-Deriving-Spatial-Data.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/48-Deriving-Spatial-Data",
           "ordinal": 48,
           "contentdata": {
             "slug": "Deriving-Spatial-Data",
@@ -762,6 +780,8 @@
         },
         {
           "file": "49-Procedural-Rules.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/49-Procedural-Rules.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/49-Procedural-Rules",
           "ordinal": 49,
           "contentdata": {
             "slug": "parametric-to-procedural",
@@ -837,6 +857,8 @@
         },
         {
           "file": "410-Generating-Exploring-Spatial-Data.md",
+          "rawfilepath": "/_content/modules/4-grasshopper-intro/410-Generating-Exploring-Spatial-Data.md",
+          "apipath": "/_content/modules/4-grasshopper-intro/410-Generating-Exploring-Spatial-Data",
           "ordinal": 410,
           "contentdata": {
             "slug": "generating-and-exploring-spatial-data",
@@ -950,6 +972,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/index.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/index",
           "ordinal": 0,
           "contentdata": {
             "slug": "computational-design-modeling-in-grasshopper",
@@ -985,6 +1009,8 @@
         },
         {
           "file": "5-1-Comp-Design-Modeling.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling",
           "ordinal": 5,
           "contentdata": {
             "slug": "what-is-a-computational-design-model",
@@ -1035,6 +1061,8 @@
         },
         {
           "file": "5-2-Subdivide-Geometry.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry",
           "ordinal": 5,
           "contentdata": {
             "slug": "subdividing-geometry-for-analysis",
@@ -1095,6 +1123,8 @@
         },
         {
           "file": "5-3-Analysis-Tools.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools",
           "ordinal": 5,
           "contentdata": {
             "slug": "building-custom-analysis-tools",
@@ -1165,6 +1195,8 @@
         },
         {
           "file": "5-4-Street-Grid.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-4-Street-Grid.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-4-Street-Grid",
           "ordinal": 5,
           "contentdata": {
             "slug": "parametric-streets-blocks-and-parcels",
@@ -1235,6 +1267,8 @@
         },
         {
           "file": "5-5_Buildings-Density.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density",
           "ordinal": 5,
           "contentdata": {
             "slug": "procedural-density-and-building-types",
@@ -1305,6 +1339,8 @@
         },
         {
           "file": "5-6_Troubleshooting.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-6_Troubleshooting.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-6_Troubleshooting",
           "ordinal": 5,
           "contentdata": {
             "slug": "putting-everything-together",
@@ -1380,6 +1416,8 @@
         },
         {
           "file": "5-7_Design-Space.md",
+          "rawfilepath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-7_Design-Space.md",
+          "apipath": "/_content/modules/5-computational-design-modeling-in-grasshopper/5-7_Design-Space",
           "ordinal": 5,
           "contentdata": {
             "slug": "creating-a-design-space-and-exploring-results",
@@ -1483,6 +1521,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/7-fundamentals-of-python/index.md",
+          "apipath": "/_content/modules/7-fundamentals-of-python/index",
           "ordinal": 0,
           "contentdata": {
             "slug": "fundamentals-of-python",
@@ -1518,6 +1558,8 @@
         },
         {
           "file": "71-variables-lists-and-dictionaries.md",
+          "rawfilepath": "/_content/modules/7-fundamentals-of-python/71-variables-lists-and-dictionaries.md",
+          "apipath": "/_content/modules/7-fundamentals-of-python/71-variables-lists-and-dictionaries",
           "ordinal": 71,
           "contentdata": {
             "slug": "variables-lists-and-dictionaries",
@@ -1583,6 +1625,8 @@
         },
         {
           "file": "72-conditionals-and-loops.md",
+          "rawfilepath": "/_content/modules/7-fundamentals-of-python/72-conditionals-and-loops.md",
+          "apipath": "/_content/modules/7-fundamentals-of-python/72-conditionals-and-loops",
           "ordinal": 72,
           "contentdata": {
             "slug": "conditionals-and-loops",
@@ -1683,6 +1727,8 @@
         },
         {
           "file": "73-functions-and-classes.md",
+          "rawfilepath": "/_content/modules/7-fundamentals-of-python/73-functions-and-classes.md",
+          "apipath": "/_content/modules/7-fundamentals-of-python/73-functions-and-classes",
           "ordinal": 73,
           "contentdata": {
             "slug": "functions-and-classes",
@@ -1728,6 +1774,8 @@
         },
         {
           "file": "74-python-libraries.md",
+          "rawfilepath": "/_content/modules/7-fundamentals-of-python/74-python-libraries.md",
+          "apipath": "/_content/modules/7-fundamentals-of-python/74-python-libraries",
           "ordinal": 74,
           "contentdata": {
             "slug": "python-libraries",
@@ -1826,6 +1874,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/index.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/index",
           "ordinal": 0,
           "contentdata": {
             "slug": "ambient-computing-network-architecture",
@@ -1876,6 +1926,8 @@
         },
         {
           "file": "161-dynamic-environments.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/161-dynamic-environments.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/161-dynamic-environments",
           "ordinal": 161,
           "contentdata": {
             "slug": "ambient-environments",
@@ -1936,6 +1988,8 @@
         },
         {
           "file": "162-network-architecture.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/162-network-architecture.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/162-network-architecture",
           "ordinal": 162,
           "contentdata": {
             "slug": "network-architecture",
@@ -1986,6 +2040,8 @@
         },
         {
           "file": "163-low-and-high-programming.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/163-low-and-high-programming.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/163-low-and-high-programming",
           "ordinal": 163,
           "contentdata": {
             "slug": "low-and-high-programming",
@@ -2016,6 +2072,8 @@
         },
         {
           "file": "164-Intro-to-Processing-Lighting.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting",
           "ordinal": 164,
           "contentdata": {
             "slug": "intro-to-processing",
@@ -2056,6 +2114,8 @@
         },
         {
           "file": "165-Webhooks-Connecting-IFTTT-and-Processing.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/165-Webhooks-Connecting-IFTTT-and-Processing.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/165-Webhooks-Connecting-IFTTT-and-Processing",
           "ordinal": 165,
           "contentdata": {
             "slug": "webhooks-connecting-ifttt-and-processing",
@@ -2126,6 +2186,8 @@
         },
         {
           "file": "166-sounds-speech-and-macros.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/166-sounds-speech-and-macros.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/166-sounds-speech-and-macros",
           "ordinal": 166,
           "contentdata": {
             "slug": "sounds-speech-and-macros",
@@ -2216,6 +2278,8 @@
         },
         {
           "file": "167-Markers-and-Tracking.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/167-Markers-and-Tracking.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/167-Markers-and-Tracking",
           "ordinal": 167,
           "contentdata": {
             "slug": "markers-and-tracking",
@@ -2271,6 +2335,8 @@
         },
         {
           "file": "168-Computer-Vision.md",
+          "rawfilepath": "/_content/modules/16-ambient-computing-network-architecture/168-Computer-Vision.md",
+          "apipath": "/_content/modules/16-ambient-computing-network-architecture/168-Computer-Vision",
           "ordinal": 168,
           "contentdata": {
             "slug": "computer-vision",
@@ -2379,6 +2445,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/18-behavioral-modeling-intro/index.md",
+          "apipath": "/_content/modules/18-behavioral-modeling-intro/index",
           "ordinal": 0,
           "contentdata": {
             "slug": "behavioral-modeling-intro",
@@ -2419,6 +2487,8 @@
         },
         {
           "file": "181-Unity-and-Agent-Based-Models.md",
+          "rawfilepath": "/_content/modules/18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models.md",
+          "apipath": "/_content/modules/18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models",
           "ordinal": 181,
           "contentdata": {
             "slug": "agent-based-modeling",
@@ -2469,6 +2539,8 @@
         },
         {
           "file": "182-Intro-To-Unity.md",
+          "rawfilepath": "/_content/modules/18-behavioral-modeling-intro/182-Intro-To-Unity.md",
+          "apipath": "/_content/modules/18-behavioral-modeling-intro/182-Intro-To-Unity",
           "ordinal": 182,
           "contentdata": {
             "slug": "intro-to-unity",
@@ -2534,6 +2606,8 @@
         },
         {
           "file": "183-Agent-Based-Populations-and-Behavior-Bricks.md",
+          "rawfilepath": "/_content/modules/18-behavioral-modeling-intro/183-Agent-Based-Populations-and-Behavior-Bricks.md",
+          "apipath": "/_content/modules/18-behavioral-modeling-intro/183-Agent-Based-Populations-and-Behavior-Bricks",
           "ordinal": 183,
           "contentdata": {
             "slug": "agent-based-modeling-and-behavior-bricks",
@@ -2599,6 +2673,8 @@
         },
         {
           "file": "184-Mapbox-SDK-and-Routing.md",
+          "rawfilepath": "/_content/modules/18-behavioral-modeling-intro/184-Mapbox-SDK-and-Routing.md",
+          "apipath": "/_content/modules/18-behavioral-modeling-intro/184-Mapbox-SDK-and-Routing",
           "ordinal": 184,
           "contentdata": {
             "slug": "mapbox-sdk",
@@ -2652,6 +2728,8 @@
       "modules": [
         {
           "file": "index.md",
+          "rawfilepath": "/_content/modules/index.md/index.md",
+          "apipath": "/_content/modules/index.md/index",
           "ordinal": 0,
           "contentdata": null
         }

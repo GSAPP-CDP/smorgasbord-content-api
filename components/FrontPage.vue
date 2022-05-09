@@ -1,6 +1,10 @@
 <template>
   <div>
-    <a href="/_content/">_content</a>
+    <h3>SMORGASBORD CONTENT API</h3>
+    <a href="/api/">/api</a>
+    <a href="/api/modules/">modules</a>
+    <a href="/api/sequences/">sequences</a>
+    <a href="/_content/">Nuxt Content API</a>
   </div>
 </template>
 
@@ -9,3 +13,14 @@ export default {
   name: 'FrontPage'
 }
 </script>
+
+<style scoped>
+
+div {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  display: block;
+}
+</style>
