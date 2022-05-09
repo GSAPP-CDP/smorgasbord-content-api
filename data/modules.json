@@ -1,6 +1,9 @@
 {
   "modules": {
-    "16-ambient-computing-network-architecture/161-dynamic-environments": {
+    "16-ambient-computing-network-architecture/166-sounds-speech-and-macros": {
+      "double_links": []
+    },
+    "16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting": {
       "double_links": []
     },
     "16-ambient-computing-network-architecture/163-low-and-high-programming": {
@@ -9,22 +12,13 @@
     "16-ambient-computing-network-architecture/162-network-architecture": {
       "double_links": []
     },
-    "16-ambient-computing-network-architecture/164-Intro-to-Processing-Lighting": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/165-Webhooks-Connecting-IFTTT-and-Processing": {
-      "double_links": []
-    },
-    "16-ambient-computing-network-architecture/166-sounds-speech-and-macros": {
-      "double_links": []
-    },
     "16-ambient-computing-network-architecture/167-Markers-and-Tracking": {
       "double_links": []
     },
-    "16-ambient-computing-network-architecture/index": {
+    "16-ambient-computing-network-architecture/168-Computer-Vision": {
       "double_links": []
     },
-    "16-ambient-computing-network-architecture/168-Computer-Vision": {
+    "16-ambient-computing-network-architecture/165-Webhooks-Connecting-IFTTT-and-Processing": {
       "double_links": []
     },
     "18-behavioral-modeling-intro/182-Intro-To-Unity": {
@@ -33,28 +27,7 @@
     "18-behavioral-modeling-intro/184-Mapbox-SDK-and-Routing": {
       "double_links": []
     },
-    "4-grasshopper-intro/41-getting-started-with-grasshopper": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/410-Generating-Exploring-Spatial-Data": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/42-exercise-hello-grasshopper": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/43-working-in-grasshopper": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/45-working-with-data": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/44-exercise-parametric-tower-part-1": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/46-exercise-parametric-tower-part-2": {
-      "double_links": []
-    },
-    "4-grasshopper-intro/47-documentation-best-practices": {
+    "18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models": {
       "double_links": []
     },
     "18-behavioral-modeling-intro/183-Agent-Based-Populations-and-Behavior-Bricks": {
@@ -63,22 +36,49 @@
     "18-behavioral-modeling-intro/index": {
       "double_links": []
     },
-    "4-grasshopper-intro/48-Deriving-Spatial-Data": {
+    "4-grasshopper-intro/41-getting-started-with-grasshopper": {
       "double_links": []
     },
-    "18-behavioral-modeling-intro/181-Unity-and-Agent-Based-Models": {
+    "4-grasshopper-intro/42-exercise-hello-grasshopper": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/410-Generating-Exploring-Spatial-Data": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/44-exercise-parametric-tower-part-1": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/43-working-in-grasshopper": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/45-working-with-data": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/47-documentation-best-practices": {
+      "double_links": []
+    },
+    "16-ambient-computing-network-architecture/161-dynamic-environments": {
       "double_links": []
     },
     "4-grasshopper-intro/49-Procedural-Rules": {
       "double_links": []
     },
+    "4-grasshopper-intro/46-exercise-parametric-tower-part-2": {
+      "double_links": []
+    },
+    "4-grasshopper-intro/48-Deriving-Spatial-Data": {
+      "double_links": []
+    },
     "4-grasshopper-intro/index": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools": {
+    "5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/5-1-Comp-Design-Modeling": {
+    "5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry": {
+      "double_links": []
+    },
+    "5-computational-design-modeling-in-grasshopper/5-7_Design-Space": {
       "double_links": []
     },
     "5-computational-design-modeling-in-grasshopper/5-4-Street-Grid": {
@@ -87,22 +87,16 @@
     "5-computational-design-modeling-in-grasshopper/5-6_Troubleshooting": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density": {
-      "double_links": []
-    },
-    "5-computational-design-modeling-in-grasshopper/5-7_Design-Space": {
-      "double_links": []
-    },
-    "7-fundamentals-of-python/71-variables-lists-and-dictionaries": {
-      "double_links": []
-    },
     "7-fundamentals-of-python/72-conditionals-and-loops": {
       "double_links": []
     },
-    "5-computational-design-modeling-in-grasshopper/5-2-Subdivide-Geometry": {
+    "5-computational-design-modeling-in-grasshopper/5-5_Buildings-Density": {
       "double_links": []
     },
     "7-fundamentals-of-python/73-functions-and-classes": {
+      "double_links": []
+    },
+    "7-fundamentals-of-python/74-python-libraries": {
       "double_links": []
     },
     "7-fundamentals-of-python/index": {
@@ -111,10 +105,16 @@
     "index": {
       "double_links": []
     },
+    "7-fundamentals-of-python/71-variables-lists-and-dictionaries": {
+      "double_links": []
+    },
+    "16-ambient-computing-network-architecture/index": {
+      "double_links": []
+    },
     "5-computational-design-modeling-in-grasshopper/index": {
       "double_links": []
     },
-    "7-fundamentals-of-python/74-python-libraries": {
+    "5-computational-design-modeling-in-grasshopper/5-3-Analysis-Tools": {
       "double_links": []
     }
   },

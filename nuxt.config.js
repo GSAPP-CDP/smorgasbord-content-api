@@ -36,6 +36,9 @@ export default {
   buildModules: [
   ],
 
+  buildDir: 'dist',
+  
+
   serverMiddleware: [
     { path: "/api", handler: "~/api/index.js" },
   ],
