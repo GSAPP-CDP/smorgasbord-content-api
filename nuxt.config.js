@@ -2,7 +2,6 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   //
   //
-  target: 'server',
 
 
   head: {
@@ -35,8 +34,6 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
   ],
-
-  buildDir: 'dist',
   
 
   serverMiddleware: [
